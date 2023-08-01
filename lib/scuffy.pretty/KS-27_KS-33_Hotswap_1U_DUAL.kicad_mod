@@ -26,9 +26,9 @@
   (pad "1" smd rect (at -6.2 5.75) (size 2 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7c0152c0-d270-4f6f-98af-e886f81cc72c))
   (pad "2" smd rect (at 6.2 5.75) (size 2 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 3129bceb-3dd6-4cb3-b52a-15bec70171fe))
   (pad "2" smd rect (at 8 4.7) (size 2 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8a9d7f4f-01a0-4791-a2a1-e464ad7d0daf))
-  (model "C:/Users/Rafael/Documents/Keyboards/KS-27-Hotswap.step"
-    (offset (xyz -1.8 -10.4 -3.5))
+  (model "/Users/ladniy/Git/scuffy/lib/3d-models/KS-27-Hotswap.step"
+    (offset (xyz 0 0 -3.5))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 180))
   )
 )
