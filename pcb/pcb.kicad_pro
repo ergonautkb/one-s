@@ -428,7 +428,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "pcb.dsn",
-      "step": "pcb.step",
+      "step": "pcb_left_bottom_xiao.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
