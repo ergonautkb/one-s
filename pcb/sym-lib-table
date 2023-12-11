@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "one")(type "KiCad")(uri "/Users/ladniy/Git/one/pcb/one.kicad_sym")(options "")(descr ""))
+  (lib (name "one")(type "KiCad")(uri "${KIPRJMOD}/../lib/one-s.kicad_sym")(options "")(descr ""))
 )
