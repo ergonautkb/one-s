@@ -42,10 +42,10 @@ jobs:
       - name: Persist PCB gerbers
         uses: actions/upload-artifact@v3.1.2
         with:
-          name: One_pcb_gerbers
+          name: one-s_pcb_gerbers
           path: gerbers/pcb
       - name: Persist images
         uses: actions/upload-artifact@v3.1.2
         with:
-          name: One_images
+          name: one-s_images
           path: images
