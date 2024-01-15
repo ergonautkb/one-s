@@ -1,6 +1,6 @@
 # Ergonaut One S
 
-![Ergonaut One S Header Image](img/header.jpg)
+![Ergonaut One S Header Image](img/eones.jpeg)
 *Ergonaut One S in Modern Case*
 
 Ergonaut One S is an open-source ergonomic wireless split mechanical keyboard designed by Ergonaut Keyboards.
