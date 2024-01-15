@@ -7,6 +7,9 @@ Ergonaut One S is an open-source ergonomic wireless split mechanical keyboard de
 
 Inspiration for the keyboard was taken from these projects:
 
+- [Ergonaut One](https://ergonautkb.com/docs/keyboards/ergonaut-one/intro/) by [Ergonaut Keyboards](https://ergonautkb.com/)
+- [Chocofi](https://github.com/pashutk/chocofi/) by [pashutk](https://github.com/pashutk/)
+
 ## Idea
 
 We wanted to create a pretty affordable, nice looking, and, most importantly, very DIY-friendly ergonomic wireless split keyboard with Gateron Low Profile switches.
