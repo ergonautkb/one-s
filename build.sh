@@ -1,7 +1,7 @@
 #!/bin/bash
 
-container_cmd="docker run -v=$(pwd):/kikit -w=/kikit --rm yaqwsx/kikit:v1.3.0-v7"
-container_cmd_draw="docker run -v=$(pwd):/kikit -w=/kikit --rm --entrypoint pcbdraw yaqwsx/kikit:v1.3.0-v7"
+container_cmd="docker run -v=$(pwd):/kikit -w=/kikit --rm yaqwsx/kikit:v1.6.0-v8"
+container_cmd_draw="docker run -v=$(pwd):/kikit -w=/kikit --rm --entrypoint pcbdraw yaqwsx/kikit:v1.6.0-v8"
 
 Images
 echo "Drawing image files"
